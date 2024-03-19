@@ -31,7 +31,7 @@ git clone https://github.com/MUGERWAFRANK/personal-portfolio.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](~https://twitter.com/mugerwafrank3).
+If you want to contact me you can reach me at [Twitter](https://twitter.com/mugerwafrank3).
 
 ## License
 
